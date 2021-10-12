@@ -29,11 +29,11 @@ function App() {
       <Router>
         <Header />
         <Switch>
-          <Route exact path="https://tranhtam.github.io/dulichviet/" component={Banner} />
-          <Route path="https://tranhtam.github.io/dulichviet/blog" component={Blog} />
-          <Route path="https://tranhtam.github.io/dulichviet/contact" component={Contact} />
-          <Route path="https://tranhtam.github.io/dulichviet/offers" component={Offers} />
-          <Route path="https://tranhtam.github.io/dulichviet/about" component={About} />
+          <Route exact path="dulichviet/" component={Banner} />
+          <Route path="dulichviet/blog" component={Blog} />
+          <Route path="dulichviet/contact" component={Contact} />
+          <Route path="dulichviet/offers" component={Offers} />
+          <Route path="dulichviet/about" component={About} />
         </Switch>
         <Footer />
       </Router>
