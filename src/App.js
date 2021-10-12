@@ -29,11 +29,11 @@ function App() {
       <Router>
         <Header />
         <Switch>
-          <Route exact path="/" component={Banner} />
-          <Route path="/blog" component={Blog} />
-          <Route path="/contact" component={Contact} />
-          <Route path="/offers" component={Offers} />
-          <Route path="/about" component={About} />
+          <Route exact path="dulichviet/" component={Banner} />
+          <Route path="dulichviet/blog" component={Blog} />
+          <Route path="dulichviet/contact" component={Contact} />
+          <Route path="dulichviet/offers" component={Offers} />
+          <Route path="dulichviet/about" component={About} />
         </Switch>
         <Footer />
       </Router>
