@@ -29,11 +29,11 @@ function Header() {
                         DULICHVIET</a></div>
                 <div class="main_nav__menu">
                     <ul class="main_nav__list">
-                        <li class="main_nav__item"><NavLink to="dulichviet/">TRANG CHỦ</NavLink></li>
-                        <li class="main_nav__item"><NavLink to="dulichviet/about">GIỚI THIỆU</NavLink></li>
-                        <li class="main_nav__item"><NavLink to="dulichviet/offers">ƯU ĐÃI</NavLink></li>
-                        <li class="main_nav__item"><NavLink to="dulichviet/blog">TIN TỨC</NavLink></li>
-                        <li class="main_nav__item"><NavLink to="dulichviet/contact">LIÊN HỆ</NavLink></li>
+                        <li class="main_nav__item"><NavLink to="https://tranhtam.github.io/dulichviet/">TRANG CHỦ</NavLink></li>
+                        <li class="main_nav__item"><NavLink to="https://tranhtam.github.io/dulichviet/about">GIỚI THIỆU</NavLink></li>
+                        <li class="main_nav__item"><NavLink to="https://tranhtam.github.io/dulichviet/offers">ƯU ĐÃI</NavLink></li>
+                        <li class="main_nav__item"><NavLink to="https://tranhtam.github.io/dulichviet/blog">TIN TỨC</NavLink></li>
+                        <li class="main_nav__item"><NavLink to="https://tranhtam.github.io/dulichviet/contact">LIÊN HỆ</NavLink></li>
                     </ul>
                 </div>
                 <div class="main_nav__search">
